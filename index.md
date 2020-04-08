@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>Chexin</h1>
+        <h1>Chexin's Blog</h1>
         <a href="http://weibo.com/cxin/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
         <a href="http://instagram.com/cartriplegold/" target="_blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="" width="27"/></a>
       </div>
