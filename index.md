@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>Chexin</h1>
         <a href="http://weibo.com/cxin/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://instagram.com/cartripplegold/" target="_blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="" width="27"/></a>
+        <a href="http://instagram.com/beishuichexin/" target="_blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="" width="27"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
